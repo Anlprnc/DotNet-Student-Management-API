@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BXnlEKbt/YZ+iDjAy3TP1P3p/2KdKsE0ytc9hCiN0BU=",
+  "Source": "DotNet-Student-Management-API",
+  "BasePath": "_content/DotNet-Student-Management-API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
